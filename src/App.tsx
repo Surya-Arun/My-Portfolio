@@ -105,7 +105,7 @@ export default function App() {
         "Cognate Transformer and Tense Master tools",
         "Interactive pronunciation and contextual practice"
       ],
-      github: "https://github.com/surya-arun/malayalamaram",
+      github: "https://github.com/Surya-Arun/Malayalam-Maram",
       live: "#"
     }
   ];
